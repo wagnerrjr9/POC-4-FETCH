@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/wagnerrjr9/poc-fetch-js.git">
-    <img src="logo-fecth.png" alt="Logo" width="180" height="150">
+    <img src="imagens/logo-fecth.png" alt="Logo" width="180" height="150">
   </a>
 
 <h1 align="center">POC - Fetch API</h1>
@@ -23,8 +23,7 @@
     <li><a href="#construído-com">Construído com</a></li>
     <li><a href="#pré-requisitos">Pré-requisitos</a></li>
     <li><a href="#uso">Uso</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contato">Contato</a></li>
+
   </ol>
 </details>
 
